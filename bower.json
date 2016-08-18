@@ -1,0 +1,17 @@
+{
+    "name": "chelseamarket-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Tart Workshop"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/chelseamarket-bower.git"
+    },
+    "description": "Chelsea Market font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
